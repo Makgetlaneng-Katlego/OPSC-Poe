@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Luna Wallet</string>
+    <string name="welcome">Welcome,</string>
+    <string name="user_name">Alex Johnson</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="weekly_spending_trend">Weekly spending\ntrend</string>
+    <string name="last_7_days">Last 7 days</string>
+    <string name="recent_transactions">Recent Transactions</string>
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+    <string name="starbucks">Starbucks</string>
+    <string name="food_drink">Food &amp; Drink</string>
+    <string name="eskom_bill">Eskom Bill</string>
+    <string name="utilities">Utilities</string>
+    <string name="pick_n_pay">Pick n Pay</string>
+    <string name="groceries">Groceries</string>
+
+    <string name="content_desc_chart">Chart Icon</string>
+    <string name="content_desc_spending_trend">Spending Trend Chart</string>
+    <string name="content_desc_coffee">Coffee Icon</string>
+    <string name="content_desc_utility">Utility Icon</string>
+    <string name="content_desc_groceries">Groceries Icon</string>
+    <string name="no_savings_goal">No Savings Goal</string>
+    <string name="zero_balance">R0 / R0</string>
+    <string name="savings_goals">Savings Goals</string>
+    <string name="add_savings_goal">Add Savings Goal</string>
+    <string name="goal_name_label">Goal Name</string>
+    <string name="target_amount_label">Target Amount (ZAR)</string>
+    <string name="initial_deposit_label">Initial Deposit (Optional)</string>
+    <string name="create_goal_button">Create Goal</string>
+    <string name="goal_name_hint">e.g. New Car, Vacation</string>
+    <string name="currency_hint">R0.00</string>
+    <string name="expenses_title">Expenses</string>
+    <string name="no_expenses">No Expenses</string>
+    <string name="general_category">General</string>
+    <string name="income_sources_title">Income Sources</string>
+    <string name="no_income">No Income</string>
+    <string name="recent_label">Recent</string>
+    <string name="no_transactions">No Transactions</string>
+</resources>

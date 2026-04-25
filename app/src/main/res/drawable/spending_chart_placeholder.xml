@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+    <!-- Grid lines -->
+    <path android:fillColor="#00000000" android:strokeColor="#E2E8F0" android:strokeWidth="1" android:pathData="M0,20 L200,20 M0,40 L200,40 M0,60 L200,60 M0,80 L200,80" />
+    <!-- Area under curve -->
+    <path android:fillColor="#2010B981" android:pathData="M0,60 L33,80 L66,50 L100,70 L133,40 L166,60 L200,75 L200,100 L0,100 Z" />
+    <!-- Line chart -->
+    <path android:fillColor="#00000000" android:strokeColor="#10B981" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M0,60 L33,80 L66,50 L100,70 L133,40 L166,60 L200,75" />
+    <!-- Dots -->
+    <path android:fillColor="#10B981" android:pathData="M0,60 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M33,80 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M66,50 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M100,70 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M133,40 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M166,60 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    <path android:fillColor="#10B981" android:pathData="M200,75 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+</vector>
