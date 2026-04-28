@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expense_categories">
+        <item>Food &amp; Dining</item>
+        <item>Transport</item>
+        <item>Home</item>
+        <item>Shopping</item>
+        <item>General</item>
+    </string-array>
+    <color name="InputboxColor">#64748B</color>
+    <color name="SecondaryText">#CCD2E3 </color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="black">#FF000000</color>
+    <color name="button_primary_bg">#1E293B</color>
+    <color name="button_primary_text">#FFFFFF</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="chip_selected">#0F172A</color>
+    <color name="chip_unselected">#F1F5F9</color>
+    <color name="expense_red">#EF4444</color>
+    <color name="icon_bg">#F1F5F9</color>
+    <color name="income_green">#10B981</color>
+    <color name="input_background">#F1F5F9</color>
+    <color name="primaryTextColor">#1E293B</color>
+    <color name="text_muted">#64748B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_savings_goal">Add Savings Goal</string>
+    <string name="app_name">Luna Wallet</string>
+    <string name="content_desc_chart">Chart Icon</string>
+    <string name="content_desc_coffee">Coffee Icon</string>
+    <string name="content_desc_groceries">Groceries Icon</string>
+    <string name="content_desc_spending_trend">Spending Trend Chart</string>
+    <string name="content_desc_utility">Utility Icon</string>
+    <string name="create_goal_button">Create Goal</string>
+    <string name="currency_hint">R0.00</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enabled">Enabled</string>
+    <string name="eskom_bill">Eskom Bill</string>
+    <string name="expense">Expense</string>
+    <string name="expenses_title">Expenses</string>
+    <string name="food_drink">Food &amp; Drink</string>
+    <string name="fri">Fri</string>
+    <string name="general_category">General</string>
+    <string name="goal_name_hint">e.g. New Car, Vacation</string>
+    <string name="goal_name_label">Goal Name</string>
+    <string name="groceries">Groceries</string>
+    <string name="income">Income</string>
+    <string name="income_sources_title">Income Sources</string>
+    <string name="initial_deposit_label">Initial Deposit (Optional)</string>
+    <string name="last_7_days">Last 7 days</string>
+    <string name="logout">Log Out</string>
+    <string name="mon">Mon</string>
+    <string name="no_expenses">No Expenses</string>
+    <string name="no_income">No Income</string>
+    <string name="no_savings_goal">No Savings Goal</string>
+    <string name="no_transactions">No Transactions</string>
+    <string name="notifications">Notifications</string>
+    <string name="pick_n_pay">Pick n Pay</string>
+    <string name="preferences_label">Preferences</string>
+    <string name="receipt_backup">Receipt Backup</string>
+    <string name="recent_label">Recent</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="sat">Sat</string>
+    <string name="savings_goals">Savings Goals</string>
+    <string name="settings_title">Settings</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="sun">Sun</string>
+    <string name="target_amount_label">Target Amount (ZAR)</string>
+    <string name="thu">Thu</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="tue">Tue</string>
+    <string name="user_email">alex@example.co.za</string>
+    <string name="user_name">Alex Johnson</string>
+    <string name="utilities">Utilities</string>
+    <string name="wed">Wed</string>
+    <string name="weekly_spending_trend">Weekly spending\ntrend</string>
+    <string name="welcome">Welcome,</string>
+    <string name="zero_balance">R0 / R0</string>
+    <style name="SlideActivityAction" parent="android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_left</item>
+    </style>
+    <style name="Theme.LunaWallet" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>
