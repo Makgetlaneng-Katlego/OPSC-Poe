@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="12dp">
+
+    <FrameLayout
+        android:id="@+id/iconExpenseFrame"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@drawable/circle_bg"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/ivExpenseIcon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center"
+            android:src="@drawable/baseline_home_24"
+            app:tint="@color/primaryTextColor"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_toEndOf="@id/iconExpenseFrame"
+        android:layout_marginStart="16dp"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:id="@+id/tvExpenseTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvExpenseSubtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Category"
+            android:textColor="@color/text_muted"
+            android:textSize="13sp"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <ImageView
+            android:id="@+id/ivReceiptIndicator"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginTop="2dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            app:tint="@color/text_muted"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvExpenseAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:text="R0.00"
+        android:textColor="@color/expense_red"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+</RelativeLayout>

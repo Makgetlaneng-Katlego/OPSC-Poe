@@ -47,48 +47,26 @@
                     android:onClick="AddSavingsGoalPage" />
             </RelativeLayout>
 
-            <!-- Goal 1 -->
+            <!-- Savings Goals Container -->
             <LinearLayout
+                android:id="@+id/savingsContainer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/card_background"
-                android:elevation="2dp"
-                android:orientation="vertical"
-                android:padding="20dp"
-                android:layout_marginBottom="16dp">
+                android:orientation="vertical">
 
-                <RelativeLayout
+                <!-- Placeholder for empty state -->
+                <TextView
+                    android:id="@+id/tvEmptySavings"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="16dp">
+                    android:background="@drawable/card_background"
+                    android:elevation="2dp"
+                    android:text="@string/no_savings_goal"
+                    android:textAlignment="center"
+                    android:padding="20dp"
+                    android:textColor="@color/text_muted"
+                    android:layout_marginBottom="16dp"/>
 
-                    <TextView
-                        android:id="@+id/tvGoalName1"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="@string/no_savings_goal"
-                        android:textColor="@color/primaryTextColor"
-                        android:textSize="18sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:id="@+id/tvGoalAmount1"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentEnd="true"
-                        android:text="@string/zero_balance"
-                        android:textColor="@color/primaryTextColor"
-                        android:textSize="16sp"
-                        android:textStyle="bold" />
-                </RelativeLayout>
-
-                <ProgressBar
-                    android:id="@+id/pbGoal1"
-                    style="@android:style/Widget.ProgressBar.Horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="12dp"
-                    android:progress="0"
-                    android:progressDrawable="@drawable/custom_progress_bar" />
             </LinearLayout>
 
         </LinearLayout>
@@ -99,6 +77,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/white"
+        app:itemIconTint="@color/nav_item_color"
+        app:itemTextColor="@color/nav_item_color"
         app:menu="@menu/bottom_menu" />
 
 </LinearLayout>

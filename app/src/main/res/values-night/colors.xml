@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryTextColor">#F8FAFC</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FFFFFFFF</color> <!-- Restored to white -->
+    <color name="InputboxColor">#94A3B8</color>
+    <color name="SecondaryText">#475569</color>
+    <color name="income_green">#34D399</color>
+    <color name="background_light">#0F172A</color> <!-- Screen background -->
+    <color name="card_bg">#1E293B</color> <!-- Card backgrounds -->
+    <color name="text_muted">#94A3B8</color>
+    <color name="input_background">#1E293B</color>
+    <color name="chip_selected">#F8FAFC</color>
+    <color name="chip_unselected">#1E293B</color>
+    <color name="expense_red">#F87171</color>
+    <color name="icon_bg">#1E293B</color>
+    <color name="button_primary_bg">#1E293B</color> <!-- Original dark color -->
+    <color name="button_primary_text">#0F172A</color>
+</resources>

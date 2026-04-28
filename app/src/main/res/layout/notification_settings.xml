@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- Header -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp">
+
+        <ImageView
+            android:id="@+id/btnBackFromNotifications"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="SettingsPage" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Notification Settings"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <!-- Frequency Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remind me to budget:"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/rgFrequency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:elevation="2dp"
+        android:padding="8dp"
+        android:layout_marginBottom="32dp">
+
+        <RadioButton
+            android:id="@+id/rbDaily"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Daily"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="16sp"
+            android:paddingStart="12dp" />
+
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginHorizontal="12dp"/>
+
+        <RadioButton
+            android:id="@+id/rbWeekly"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Weekly"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="16sp"
+            android:paddingStart="12dp" />
+    </RadioGroup>
+
+    <!-- Time Section -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Preferred Time:"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/rgTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:elevation="2dp"
+        android:padding="8dp"
+        android:layout_marginBottom="40dp">
+
+        <RadioButton
+            android:id="@+id/rbMorning"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Morning (08:00)"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="16sp"
+            android:paddingStart="12dp" />
+
+        <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginHorizontal="12dp"/>
+
+        <RadioButton
+            android:id="@+id/rbNight"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Night (20:00)"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="16sp"
+            android:paddingStart="12dp" />
+    </RadioGroup>
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/btnSaveNotifications"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/button_rounded_corners"
+        android:backgroundTint="@color/primaryTextColor"
+        android:text="Save Preferences"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:onClick="SaveNotificationSettings" />
+
+</LinearLayout>

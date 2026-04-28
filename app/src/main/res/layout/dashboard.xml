@@ -230,6 +230,7 @@
 
             <!-- Transaction List Card -->
             <LinearLayout
+                android:id="@+id/transactionContainer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"
@@ -238,62 +239,15 @@
                 android:orientation="vertical"
                 android:padding="16dp">
 
-                <!-- Recent Transaction Item -->
-                <RelativeLayout
+                <!-- Placeholder for empty state -->
+                <TextView
+                    android:id="@+id/tvEmptyTransactions"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:paddingVertical="12dp">
-
-                    <TextView
-                        android:id="@+id/tvRecentAmount"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentEnd="true"
-                        android:layout_centerVertical="true"
-                        android:text="@string/currency_hint"
-                        android:textColor="@color/expense_red"
-                        android:textSize="16sp"
-                        android:textStyle="bold" />
-
-                    <FrameLayout
-                        android:id="@+id/iconRecent"
-                        android:layout_width="48dp"
-                        android:layout_height="48dp"
-                        android:background="@drawable/circle_bg">
-                        <ImageView
-                            android:layout_width="24dp"
-                            android:layout_height="24dp"
-                            android:layout_gravity="center"
-                            android:src="@android:drawable/ic_menu_recent_history"
-                            app:tint="@color/primaryTextColor"
-                            android:contentDescription="Transaction Icon"/>
-                    </FrameLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        android:layout_toEndOf="@id/iconRecent"
-                        android:layout_toStartOf="@id/tvRecentAmount"
-                        android:layout_marginStart="16dp"
-                        android:layout_marginEnd="8dp">
-                        <TextView
-                            android:id="@+id/tvRecentTitle"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/no_transactions"
-                            android:textColor="@color/primaryTextColor"
-                            android:textSize="16sp"
-                            android:textStyle="bold" />
-                        <TextView
-                            android:id="@+id/tvRecentSubtitle"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/recent_label"
-                            android:textColor="@color/text_muted"
-                            android:textSize="13sp" />
-                    </LinearLayout>
-                </RelativeLayout>
+                    android:text="@string/no_transactions"
+                    android:textAlignment="center"
+                    android:padding="20dp"
+                    android:textColor="@color/text_muted"/>
             </LinearLayout>
 
         </LinearLayout>
@@ -305,6 +259,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:background="@color/white"
+        app:itemIconTint="@color/nav_item_color"
+        app:itemTextColor="@color/nav_item_color"
         app:menu="@menu/bottom_menu" />
 
 </RelativeLayout>

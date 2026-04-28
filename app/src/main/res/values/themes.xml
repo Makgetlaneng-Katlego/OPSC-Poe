@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.LunaWallet" parent="Theme.MaterialComponents.Light.NoActionBar" />
+    <style name="Theme.LunaWallet" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
     <style name="SlideActivityAction" parent="android:style/Animation.Activity">
         <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
         <item name="android:activityCloseExitAnimation">@anim/slide_out_left</item>

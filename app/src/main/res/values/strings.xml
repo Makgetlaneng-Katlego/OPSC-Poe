@@ -46,4 +46,21 @@
     <string name="no_income">No Income</string>
     <string name="recent_label">Recent</string>
     <string name="no_transactions">No Transactions</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="preferences_label">Preferences</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="notifications">Notifications</string>
+    <string name="receipt_backup">Receipt Backup</string>
+    <string name="enabled">Enabled</string>
+    <string name="logout">Log Out</string>
+    <string name="user_email">alex@example.co.za</string>
+
+    <string-array name="expense_categories">
+        <item>Food &amp; Dining</item>
+        <item>Transport</item>
+        <item>Home</item>
+        <item>Shopping</item>
+        <item>General</item>
+    </string-array>
 </resources>

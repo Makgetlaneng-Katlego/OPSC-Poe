@@ -97,29 +97,15 @@
             android:textSize="14sp"
             android:layout_marginBottom="8dp"/>
 
-        <RelativeLayout
+        <Spinner
+            android:id="@+id/spCategory"
             android:layout_width="match_parent"
             android:layout_height="56dp"
             android:background="@drawable/add_income_input_bg"
-            android:paddingHorizontal="20dp"
-            android:layout_marginBottom="24dp">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerVertical="true"
-                android:text="Food &amp; Dining"
-                android:textColor="@color/primaryTextColor"
-                android:textSize="16sp" />
-
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:layout_alignParentEnd="true"
-                android:layout_centerVertical="true"
-                android:src="@android:drawable/arrow_down_float"
-                app:tint="@color/primaryTextColor"/>
-        </RelativeLayout>
+            android:layout_marginBottom="24dp"
+            android:paddingHorizontal="12dp"
+            android:spinnerMode="dropdown"
+            android:entries="@array/expense_categories" />
 
         <!-- Attach Receipt -->
         <TextView
@@ -132,14 +118,18 @@
             android:layout_marginBottom="8dp"/>
 
         <LinearLayout
+            android:id="@+id/llAttachReceipt"
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:background="@drawable/dashed_border_bg"
             android:orientation="vertical"
             android:gravity="center"
-            android:layout_marginBottom="24dp">
+            android:layout_marginBottom="24dp"
+            android:clickable="true"
+            android:focusable="true">
 
             <ImageView
+                android:id="@+id/ivReceiptPreview"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:src="@android:drawable/ic_menu_camera"
@@ -147,6 +137,7 @@
                 android:alpha="0.6"/>
 
             <TextView
+                android:id="@+id/tvReceiptStatus"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Tap to add receipt"

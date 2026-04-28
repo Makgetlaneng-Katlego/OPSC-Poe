@@ -36,13 +36,20 @@ class LunaChartView @JvmOverloads constructor(
 
     private val path = Path()
     private val fillPath = Path()
-    private val points = FloatArray(14)
-    private val basePoints = floatArrayOf(0.7f, 0.8f, 0.5f, 0.7f, 0.3f, 0.5f, 0.6f)
+    private var dataPoints: FloatArray = floatArrayOf(0.7f, 0.8f, 0.5f, 0.7f, 0.3f, 0.5f, 0.6f)
 
     fun setData(income: Double, expense: Double) {
+        // Fallback for simple data
         this.income = if (income <= 0) 1.0 else income
         this.expense = expense
         invalidate()
+    }
+
+    fun setTrendData(points: List<Float>) {
+        if (points.size >= 2) {
+            dataPoints = points.toFloatArray()
+            invalidate()
+        }
     }
 
     override fun onDraw(canvas: Canvas) {
@@ -54,13 +61,13 @@ class LunaChartView @JvmOverloads constructor(
 
         val padding = 40f
         val chartHeight = h - padding * 2
-        val expenseRatio = (expense / income).coerceIn(0.0, 1.2).toFloat()
         
-        for (i in 0 until 7) {
-            val x = i * (w / 6)
-            // Higher ratio (more spending) pushes the line higher up on screen (smaller Y)
-            val yFactor = (basePoints[i] * (1f - expenseRatio * 0.5f)).coerceIn(0.1f, 0.9f)
-            val y = padding + (chartHeight * yFactor)
+        val size = dataPoints.size
+        val points = FloatArray(size * 2)
+        
+        for (i in 0 until size) {
+            val x = i * (w / (size - 1))
+            val y = padding + (chartHeight * (1f - dataPoints[i]))
             
             points[i*2] = x
             points[i*2+1] = y
@@ -68,12 +75,12 @@ class LunaChartView @JvmOverloads constructor(
 
         path.reset()
         path.moveTo(points[0], points[1])
-        for (i in 1 until 7) {
+        for (i in 1 until size) {
             val prevX = points[(i-1)*2]
             val prevY = points[(i-1)*2+1]
             val currX = points[i*2]
             val currY = points[i*2+1]
-            path.quadTo((prevX + currX) / 2, (prevY + currY) / 2, currX, currY)
+            path.cubicTo((prevX + currX) / 2, prevY, (prevX + currX) / 2, currY, currX, currY)
         }
 
         fillPath.set(path)
@@ -84,9 +91,9 @@ class LunaChartView @JvmOverloads constructor(
         canvas.drawPath(fillPath, fillPaint)
         canvas.drawPath(path, linePaint)
 
-        for (i in 0 until 7) {
-            canvas.drawCircle(points[i*2], points[i*2+1], 12f, dotPaint)
-            canvas.drawCircle(points[i*2], points[i*2+1], 6f, whitePaint)
+        for (i in 0 until size) {
+            canvas.drawCircle(points[i*2], points[i*2+1], 10f, dotPaint)
+            canvas.drawCircle(points[i*2], points[i*2+1], 5f, whitePaint)
         }
     }
 }
