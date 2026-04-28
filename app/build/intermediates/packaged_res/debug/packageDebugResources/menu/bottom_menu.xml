@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/navigation_savings"
+        android:icon="@drawable/baseline_account_balance_wallet_24"
+        android:title="Savings"/>
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/rounded_account_circle_24"
+        android:title="Account"/>
+</menu>

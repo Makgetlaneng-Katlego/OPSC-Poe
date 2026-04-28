@@ -1,0 +1,7 @@
+com.example.lunawallet.app-pngs-0 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\generated\res\pngs\debug
+com.example.lunawallet.app-updated_navigation_xml-1 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\generated\updated_navigation_xml\debug
+com.example.lunawallet.app-packageDebugResources-2 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lunawallet.app-packageDebugResources-3 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lunawallet.app-debug-4 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.lunawallet.app-debug-5 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\src\debug\res
+com.example.lunawallet.app-main-6 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\src\main\res

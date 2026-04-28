@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_spending_chart_placeholder.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\spending_chart_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_expense.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_add_income_input_bg.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\add_income_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_income.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_add_savings_goal.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\add_savings_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_in_app_logo.png.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\in_app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_rounded_account_circle_24.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\rounded_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_create_acc.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\create_acc.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_transaction_details.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\transaction_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.lunawallet.app-debug-52:/drawable_button_rounded_corners.xml.flat",
+        "source": "com.example.lunawallet.app-main-54:/drawable/button_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_nav_background.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_dashed_border_bg.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\dashed_border_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_add_expense.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_button_green_rounded.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\button_green_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_dashboard.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_badge_background.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_add_income_source.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\add_income_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_goal_achieved.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\goal_achieved.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_notification_settings.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\notification_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_item_income.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\item_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_item_savings_goal.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\item_savings_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_baseline_account_balance_wallet_24.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_chip_selected_bg.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\chip_selected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_chip_unselected_bg.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\chip_unselected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_input_box_rounded_corners.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\input_box_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_settings.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_button_rounded_corners.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\button_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_savings.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\savings.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\layout_add_to_savings.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\layout\\add_to_savings.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\drawable_button_red_rounded.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\drawable\\button_red_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\makge\\.gradle\\daemon\\9.3.1\\com.example.lunawallet.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
