@@ -1,6 +1,7 @@
 # OPSC-Poe
 The open-source coding POE part 2 required my group to create a budgeting application and we came up with Luna Wallet.
-
+## YouTube Video 
+https://www.youtube.com/watch?v=keMsumaAWQ4
 ## Manual expense and income
 due to limitation with the inability to link banks accouts with the application we went with manual entry of user expense and income to manage the amount the have through numbers and they transact separately to their banking app.
 ## Manual savings tracking
