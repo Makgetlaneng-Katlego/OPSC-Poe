@@ -1,78 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunawallet.app-mergeDebugResources-50:/values-lo/values-lo.xml",
+            "outputFile": "com.example.lunawallet.app-mergeDebugResources-54:/values-lo/values-lo.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\d657d88be2981e2bdf202dc4aff5fc71\\workspace\\transformed\\foundation\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,171,257",
-                        "endColumns": "115,85,84",
-                        "endOffsets": "166,252,337"
-                    },
-                    "to": {
-                        "startLines": "33,210,211",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "2986,19135,19221",
-                        "endColumns": "115,85,84",
-                        "endOffsets": "3097,19216,19301"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\ec0d95d9b9a90ca765ef433ca2908040\\workspace\\transformed\\material\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "91",
-                        "endOffsets": "142"
-                    },
-                    "to": {
-                        "startLines": "144",
-                        "startColumns": "4",
-                        "startOffsets": "13807",
-                        "endColumns": "91",
-                        "endOffsets": "13894"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\aa798eddc5950bcc235d76aa278f74a3\\workspace\\transformed\\core-1.16.0\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,254,353,451,552,650,761",
-                        "endColumns": "95,102,98,97,100,97,110,100",
-                        "endOffsets": "146,249,348,446,547,645,756,857"
-                    },
-                    "to": {
-                        "startLines": "39,40,41,42,43,44,45,206",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3519,3615,3718,3817,3915,4016,4114,18769",
-                        "endColumns": "95,102,98,97,100,97,110,100",
-                        "endOffsets": "3610,3713,3812,3910,4011,4109,4220,18865"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\bbeb0432f7492a723256fb6d774c74a6\\workspace\\transformed\\ui\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,303,380,489,587,676,765,855,941,1024,1104,1188,1262,1350,1431,1506,1581,1659,1725",
-                        "endColumns": "107,89,76,108,97,88,88,89,85,82,79,83,73,87,80,74,74,77,65,120",
-                        "endOffsets": "208,298,375,484,582,671,760,850,936,1019,1099,1183,1257,1345,1426,1501,1576,1654,1720,1841"
-                    },
-                    "to": {
-                        "startLines": "34,49,50,51,52,53,58,59,192,193,195,196,200,202,203,204,205,207,208,209",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3102,4542,4632,4709,4818,4916,5296,5385,17644,17730,17892,17972,18300,18450,18538,18619,18694,18870,18948,19014",
-                        "endColumns": "107,89,76,108,97,88,88,89,85,82,79,83,73,87,80,74,74,77,65,120",
-                        "endOffsets": "3205,4627,4704,4813,4911,5000,5380,5470,17725,17808,17967,18051,18369,18533,18614,18689,18764,18943,19009,19130"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\f15b6b58d5653ecc0b1d12c9a4d37819\\workspace\\transformed\\appcompat-1.7.0\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\d3443a01cb9e0c2e27b30b65429a0a1c\\transformed\\appcompat-1.7.0\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -89,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\8078bfb5dd4e19f359ba557c4c1748a2\\workspace\\transformed\\material-1.13.0\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\580454681c117d629fd45e5578f31d51\\transformed\\ui\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,303,380,489,587,676,765,855,941,1024,1104,1188,1262,1350,1431,1506,1581,1659,1725",
+                        "endColumns": "107,89,76,108,97,88,88,89,85,82,79,83,73,87,80,74,74,77,65,120",
+                        "endOffsets": "208,298,375,484,582,671,760,850,936,1019,1099,1183,1257,1345,1426,1501,1576,1654,1720,1841"
+                    },
+                    "to": {
+                        "startLines": "34,49,50,51,52,53,58,59,192,193,195,196,200,202,203,204,205,207,208,209",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3102,4542,4632,4709,4818,4916,5296,5385,17644,17730,17892,17972,18300,18450,18538,18619,18694,18870,18948,19014",
+                        "endColumns": "107,89,76,108,97,88,88,89,85,82,79,83,73,87,80,74,74,77,65,120",
+                        "endOffsets": "3205,4627,4704,4813,4911,5000,5380,5470,17725,17808,17967,18051,18369,18533,18614,18689,18764,18943,19009,19130"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\da26ba1bc84082162e74f08ebc70f3e1\\transformed\\material-1.13.0\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -108,7 +57,58 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\90f228ce93c14b68b1ff02f1db7efe37\\workspace\\transformed\\material3\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\9fc6bcf14e23b35cbcdab48aadb096ad\\transformed\\foundation\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,171,257",
+                        "endColumns": "115,85,84",
+                        "endOffsets": "166,252,337"
+                    },
+                    "to": {
+                        "startLines": "33,210,211",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2986,19135,19221",
+                        "endColumns": "115,85,84",
+                        "endOffsets": "3097,19216,19301"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\f53281a6ff6ff94f114347745d653012\\transformed\\material\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "91",
+                        "endOffsets": "142"
+                    },
+                    "to": {
+                        "startLines": "144",
+                        "startColumns": "4",
+                        "startOffsets": "13807",
+                        "endColumns": "91",
+                        "endOffsets": "13894"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\5c0fd9da9ac84a9cde23ca41968eed3c\\transformed\\core-1.16.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,353,451,552,650,761",
+                        "endColumns": "95,102,98,97,100,97,110,100",
+                        "endOffsets": "146,249,348,446,547,645,756,857"
+                    },
+                    "to": {
+                        "startLines": "39,40,41,42,43,44,45,206",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3519,3615,3718,3817,3915,4016,4114,18769",
+                        "endColumns": "95,102,98,97,100,97,110,100",
+                        "endOffsets": "3610,3713,3812,3910,4011,4109,4220,18865"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\e89d4bac6b703af5e609bbb15cf66042\\transformed\\material3\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

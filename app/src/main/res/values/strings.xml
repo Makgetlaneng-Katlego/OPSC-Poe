@@ -63,4 +63,20 @@
         <item>Shopping</item>
         <item>General</item>
     </string-array>
+
+    <string-array name="budget_categories">
+        <item>Overall Monthly Budget</item>
+        <item>Food &amp; Dining</item>
+        <item>Transport</item>
+        <item>Home</item>
+        <item>Shopping</item>
+        <item>General</item>
+    </string-array>
+
+    <string-array name="alert_percentages">
+        <item>50% of limit</item>
+        <item>80% of limit</item>
+        <item>90% of limit</item>
+        <item>100% of limit</item>
+    </string-array>
 </resources>

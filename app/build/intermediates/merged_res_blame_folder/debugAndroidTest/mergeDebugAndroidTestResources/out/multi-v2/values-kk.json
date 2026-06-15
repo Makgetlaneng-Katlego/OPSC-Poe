@@ -4,24 +4,7 @@
             "outputFile": "com.example.lunawallet.test.app-mergeDebugAndroidTestResources-32:/values-kk/values-kk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\aa798eddc5950bcc235d76aa278f74a3\\workspace\\transformed\\core-1.16.0\\res\\values-kk\\values-kk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,359,462,566,663,774",
-                        "endColumns": "99,101,101,102,103,96,110,100",
-                        "endOffsets": "150,252,354,457,561,658,769,870"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "204,304,406,508,611,715,812,2290",
-                        "endColumns": "99,101,101,102,103,96,110,100",
-                        "endOffsets": "299,401,503,606,710,807,918,2386"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\bbeb0432f7492a723256fb6d774c74a6\\workspace\\transformed\\ui\\res\\values-kk\\values-kk.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\580454681c117d629fd45e5578f31d51\\transformed\\ui\\res\\values-kk\\values-kk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,923,1016,1099,1204,1306,1393,1474,1567,1657,1739,1822,1907,1980,2066,2140,2216,2391,2467,2537",
                         "endColumns": "98,92,82,104,101,86,80,92,89,81,82,84,72,85,73,75,73,75,69,117",
                         "endOffsets": "199,1011,1094,1199,1301,1388,1469,1562,1652,1734,1817,1902,1975,2061,2135,2211,2285,2462,2532,2650"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\5c0fd9da9ac84a9cde23ca41968eed3c\\transformed\\core-1.16.0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,359,462,566,663,774",
+                        "endColumns": "99,101,101,102,103,96,110,100",
+                        "endOffsets": "150,252,354,457,561,658,769,870"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "204,304,406,508,611,715,812,2290",
+                        "endColumns": "99,101,101,102,103,96,110,100",
+                        "endOffsets": "299,401,503,606,710,807,918,2386"
                     }
                 }
             ]

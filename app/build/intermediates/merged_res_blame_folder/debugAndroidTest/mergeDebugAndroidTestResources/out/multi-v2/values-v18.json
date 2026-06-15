@@ -4,7 +4,7 @@
             "outputFile": "com.example.lunawallet.test.app-mergeDebugAndroidTestResources-32:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\be392e994356aa23fdb1bcfed6cfa6c3\\workspace\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\fbfa4773608556d1a8c54d1d91e5b6c0\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",

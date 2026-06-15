@@ -4,24 +4,7 @@
             "outputFile": "com.example.lunawallet.test.app-mergeDebugAndroidTestResources-32:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\aa798eddc5950bcc235d76aa278f74a3\\workspace\\transformed\\core-1.16.0\\res\\values-es-rUS\\values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,154,256,356,454,561,667,787",
-                        "endColumns": "98,101,99,97,106,105,119,100",
-                        "endOffsets": "149,251,351,449,556,662,782,883"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "206,305,407,507,605,712,818,2334",
-                        "endColumns": "98,101,99,97,106,105,119,100",
-                        "endOffsets": "300,402,502,600,707,813,933,2430"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\bbeb0432f7492a723256fb6d774c74a6\\workspace\\transformed\\ui\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\580454681c117d629fd45e5578f31d51\\transformed\\ui\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,938,1037,1119,1217,1320,1409,1488,1584,1676,1763,1850,1940,2017,2102,2178,2258,2435,2513,2583",
                         "endColumns": "100,98,81,97,102,88,78,95,91,86,86,89,76,84,75,79,75,77,69,122",
                         "endOffsets": "201,1032,1114,1212,1315,1404,1483,1579,1671,1758,1845,1935,2012,2097,2173,2253,2329,2508,2578,2701"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\5c0fd9da9ac84a9cde23ca41968eed3c\\transformed\\core-1.16.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "206,305,407,507,605,712,818,2334",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "300,402,502,600,707,813,933,2430"
                     }
                 }
             ]

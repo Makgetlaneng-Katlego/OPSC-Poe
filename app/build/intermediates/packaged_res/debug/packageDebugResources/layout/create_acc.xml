@@ -7,23 +7,40 @@
     >
 
  <LinearLayout
-     android:layout_marginTop="15dp"
+     android:layout_marginTop="35dp"
      android:layout_marginHorizontal="15dp"
      android:background="@drawable/card_background"
      android:orientation="vertical"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
      android:elevation="10dp">
-    <TextView
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:layout_width="wrap_content"
+
+    <!-- Header with Back Button -->
+    <RelativeLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/app_name"
-        android:textColor="@color/primaryTextColor"
-        android:textSize="28sp"
-        android:textStyle="bold"
-        android:layout_marginBottom="45dp"/>
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/btnBackCreateAcc"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:onClick="LogoutBtn"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/app_name"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
     <TextView
         android:layout_marginVertical="10dp"
         android:layout_width="wrap_content"
@@ -123,7 +140,7 @@
         android:layout_marginHorizontal="45dp"
         android:clickable="true"
         android:focusable="true"
-        android:onClick="LoginBtn"
+        android:onClick="RegisterBtn"
         />
  </LinearLayout>
 </ScrollView>

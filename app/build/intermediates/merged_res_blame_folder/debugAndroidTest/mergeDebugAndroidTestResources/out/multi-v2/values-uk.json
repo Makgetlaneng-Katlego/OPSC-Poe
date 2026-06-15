@@ -4,24 +4,7 @@
             "outputFile": "com.example.lunawallet.test.app-mergeDebugAndroidTestResources-32:/values-uk/values-uk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\aa798eddc5950bcc235d76aa278f74a3\\workspace\\transformed\\core-1.16.0\\res\\values-uk\\values-uk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,257,358,459,564,669,782",
-                        "endColumns": "99,101,100,100,104,104,112,100",
-                        "endOffsets": "150,252,353,454,559,664,777,878"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "207,307,409,510,611,716,821,2303",
-                        "endColumns": "99,101,100,100,104,104,112,100",
-                        "endOffsets": "302,404,505,606,711,816,929,2399"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\bbeb0432f7492a723256fb6d774c74a6\\workspace\\transformed\\ui\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\580454681c117d629fd45e5578f31d51\\transformed\\ui\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,934,1027,1111,1213,1314,1398,1480,1569,1657,1739,1824,1912,1984,2073,2149,2226,2404,2484,2554",
                         "endColumns": "101,92,83,101,100,83,81,88,87,81,84,87,71,88,75,76,76,79,69,122",
                         "endOffsets": "202,1022,1106,1208,1309,1393,1475,1564,1652,1734,1819,1907,1979,2068,2144,2221,2298,2479,2549,2672"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\5c0fd9da9ac84a9cde23ca41968eed3c\\transformed\\core-1.16.0\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,358,459,564,669,782",
+                        "endColumns": "99,101,100,100,104,104,112,100",
+                        "endOffsets": "150,252,353,454,559,664,777,878"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "207,307,409,510,611,716,821,2303",
+                        "endColumns": "99,101,100,100,104,104,112,100",
+                        "endOffsets": "302,404,505,606,711,816,929,2399"
                     }
                 }
             ]

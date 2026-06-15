@@ -53,7 +53,10 @@
                 android:background="@drawable/button_rounded_corners"
                 android:backgroundTint="@color/primaryTextColor"
                 android:padding="24dp"
-                android:layout_marginBottom="24dp">
+                android:layout_marginBottom="24dp"
+                android:onClick="SpendingLimitsPage"
+                android:clickable="true"
+                android:focusable="true">
 
                 <TextView
                     android:id="@+id/TotalBView"
@@ -216,6 +219,33 @@
                     <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/sun" android:textSize="11sp" android:gravity="center" android:textColor="@color/text_muted"/>
                 </LinearLayout>
             </LinearLayout>
+
+            <!-- Category Insights Section -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="24dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="16dp"
+                android:text="Category Insights"
+                android:textColor="@color/primaryTextColor"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="24dp"
+                android:clipToPadding="false"
+                android:layout_marginBottom="24dp"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:id="@+id/categoryChartsContainer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" />
+            </HorizontalScrollView>
 
             <!-- Recent Transaction Header -->
             <TextView

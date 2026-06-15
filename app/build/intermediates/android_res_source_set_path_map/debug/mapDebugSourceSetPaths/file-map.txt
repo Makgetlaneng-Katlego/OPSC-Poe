@@ -5,3 +5,4 @@ com.example.lunawallet.app-packageDebugResources-3 C:\Users\makge\AndroidStudioP
 com.example.lunawallet.app-debug-4 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\build\intermediates\merged_res\debug\mergeDebugResources
 com.example.lunawallet.app-debug-5 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\src\debug\res
 com.example.lunawallet.app-main-6 C:\Users\makge\AndroidStudioProjects\LunaWallet\app\src\main\res
+gradleHome-0 C:\Users\makge\.gradle

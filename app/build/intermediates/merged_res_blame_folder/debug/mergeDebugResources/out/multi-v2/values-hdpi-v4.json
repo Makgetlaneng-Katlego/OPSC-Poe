@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunawallet.app-mergeDebugResources-50:/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "com.example.lunawallet.app-mergeDebugResources-54:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\f15b6b58d5653ecc0b1d12c9a4d37819\\workspace\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\d3443a01cb9e0c2e27b30b65429a0a1c\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

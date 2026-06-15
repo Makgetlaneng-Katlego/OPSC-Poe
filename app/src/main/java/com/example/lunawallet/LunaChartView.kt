@@ -52,6 +52,13 @@ class LunaChartView @JvmOverloads constructor(
         }
     }
 
+    fun setChartColor(color: Int) {
+        linePaint.color = color
+        dotPaint.color = color
+        fillPaint.color = Color.argb(40, Color.red(color), Color.green(color), Color.blue(color))
+        invalidate()
+    }
+
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
         

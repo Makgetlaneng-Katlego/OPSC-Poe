@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunawallet.app-mergeDebugResources-50:/values-w400dp-port-v13/values-w400dp-port-v13.xml",
+            "outputFile": "com.example.lunawallet.app-mergeDebugResources-54:/values-w400dp-port-v13/values-w400dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\8078bfb5dd4e19f359ba557c4c1748a2\\workspace\\transformed\\material-1.13.0\\res\\values-w400dp-port-v13\\values-w400dp-port-v13.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\da26ba1bc84082162e74f08ebc70f3e1\\transformed\\material-1.13.0\\res\\values-w400dp-port-v13\\values-w400dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

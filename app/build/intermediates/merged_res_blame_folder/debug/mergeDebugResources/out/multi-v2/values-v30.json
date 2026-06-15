@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunawallet.app-mergeDebugResources-50:/values-v30/values-v30.xml",
+            "outputFile": "com.example.lunawallet.app-mergeDebugResources-54:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.3.1\\transforms\\90f228ce93c14b68b1ff02f1db7efe37\\workspace\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\makge\\.gradle\\caches\\9.4.1\\transforms\\e89d4bac6b703af5e609bbb15cf66042\\transformed\\material3\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
